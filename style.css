@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(#d61c1c,#f5ebeb,#292525);
+}
+#logo{
+    width: 800px;
+    height: 563px;
+}
+img{
+    width: 350px;
+}
+.cars{
+    display: inline;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 25px;
+}
+.carousel-inner{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 50px;
+}
